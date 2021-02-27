@@ -1,0 +1,8 @@
+C:\Users\Admin\Source\Repos\ShoeWeb\EcommerceCommon\bin\Debug\netcoreapp2.2\EcommerceCommon.deps.json
+C:\Users\Admin\Source\Repos\ShoeWeb\EcommerceCommon\bin\Debug\netcoreapp2.2\EcommerceCommon.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\EcommerceCommon\bin\Debug\netcoreapp2.2\EcommerceCommon.pdb
+C:\Users\Admin\Source\Repos\ShoeWeb\EcommerceCommon\obj\Debug\netcoreapp2.2\EcommerceCommon.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\ShoeWeb\EcommerceCommon\obj\Debug\netcoreapp2.2\EcommerceCommon.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\ShoeWeb\EcommerceCommon\obj\Debug\netcoreapp2.2\EcommerceCommon.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\EcommerceCommon\obj\Debug\netcoreapp2.2\EcommerceCommon.pdb
+C:\Users\Admin\Source\Repos\ShoeWeb\EcommerceCommon\obj\Debug\netcoreapp2.2\EcommerceCommon.csprojAssemblyReference.cache

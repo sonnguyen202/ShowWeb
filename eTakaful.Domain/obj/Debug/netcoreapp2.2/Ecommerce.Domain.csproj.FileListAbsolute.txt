@@ -1,0 +1,14 @@
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Domain.deps.json
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Domain.runtimeconfig.json
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Domain.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Domain.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\bin\Debug\netcoreapp2.2\Ecommerce.Domain.pdb
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\bin\Debug\netcoreapp2.2\EcommerceCommon.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\bin\Debug\netcoreapp2.2\EcommerceCommon.pdb
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Domain.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Domain.csproj.CopyComplete
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Domain.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Domain.pdb
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Domain\obj\Debug\netcoreapp2.2\Ecommerce.Domain.genruntimeconfig.cache

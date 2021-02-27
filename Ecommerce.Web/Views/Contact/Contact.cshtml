@@ -1,0 +1,16 @@
+﻿@model List<EcommerceCommon.Infrastructure.ViewModel.Web.ProductHomepage>
+@{
+    ViewData["Title"] = "Home Page";
+    var pageNumber = ViewBag.PageNumber;
+    var page = ViewBag.Page;
+}
+@foreach (var item in Model)
+{
+    <div>@item.Name</div>
+}
+<ul>
+    @for(var i = 1; i<= page; i++)
+    {
+        <li ><a asp-action="Contact" asp-controller="Contact" asp-route-pageNumber="@i">@i</a></li>
+    }
+</ul>

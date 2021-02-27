@@ -1,0 +1,15 @@
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\bin\Debug\netcoreapp2.2\Ecommerce.Service.deps.json
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\bin\Debug\netcoreapp2.2\Ecommerce.Service.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\bin\Debug\netcoreapp2.2\Ecommerce.Service.pdb
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\bin\Debug\netcoreapp2.2\Ecommerce.Domain.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\bin\Debug\netcoreapp2.2\Ecommerce.Repository.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\bin\Debug\netcoreapp2.2\EcommerceCommon.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\bin\Debug\netcoreapp2.2\Ecommerce.Domain.pdb
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\bin\Debug\netcoreapp2.2\Ecommerce.Repository.pdb
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\bin\Debug\netcoreapp2.2\EcommerceCommon.pdb
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\obj\Debug\netcoreapp2.2\Ecommerce.Service.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\obj\Debug\netcoreapp2.2\Ecommerce.Service.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\obj\Debug\netcoreapp2.2\Ecommerce.Service.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\obj\Debug\netcoreapp2.2\Ecommerce.Service.csproj.CopyComplete
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\obj\Debug\netcoreapp2.2\Ecommerce.Service.dll
+C:\Users\Admin\Source\Repos\ShoeWeb\eTakaful.Core\obj\Debug\netcoreapp2.2\Ecommerce.Service.pdb
